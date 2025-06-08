@@ -6,6 +6,7 @@ body {
   color: #003049;
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
   padding: 40px;
+  font-size: 14px; 
 }
 
 /* Headings */
@@ -61,6 +62,10 @@ p {
   line-height: 1.5;
 }
 
+#portfolio p {
+  font-size: 14px;
+}
+
 /* Links */
 a:link {
   color: #d62828;
@@ -104,4 +109,4 @@ footer {
 hr {
   border: 1px solid black;
 }
-?/* Ahmed */
+/* Ahmed */
